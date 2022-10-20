@@ -1,0 +1,18 @@
+{
+    "editor.codeLensFontFamily": "DankMono Nerd Font",
+    "editor.codeLensFontSize": 14,
+    "editor.fontFamily": "DankMono Nerd Font, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.inlayHints.fontFamily": "Glacial Indifference",
+    "scm.inputFontFamily": "DankMono Nerd Font",
+    "debug.console.fontFamily": "DankMono Nerd Font",
+    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Glacial Indifference', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "notebook.outputFontFamily": "DankMono Nerd Font",
+    "terminal.integrated.fontFamily": "DankMono Nerd Font",
+    "customizeUI.font.monospace": "DankMono Nerd Font",
+    "customizeUI.font.regular": "Glacial Indifference",
+    "customizeUI.stylesheet": {
+    
+    },
+    "commit-message-editor.view.useMonospaceEditor": true
+}
